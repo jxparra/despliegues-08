@@ -32,6 +32,6 @@ body {
 .cards { display: flex; gap: 1.5rem; max-width: 1100px; margin: 0 auto 4rem; padding: 0 2rem; }
 .card { flex: 1; background: white; border-radius: 8px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
 .card h2 { color: #4f46e5; margin-bottom: 0.5rem; font-size: 1.1rem; }
-.card p { color: white; }
+.card p { color: rgb(0, 0, 0); }
 
 .footer { text-align: center; padding: 2rem; color: #94a3b8; font-size: 0.875rem; }
