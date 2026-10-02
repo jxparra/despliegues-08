@@ -22,3 +22,16 @@ Otra solución podría ser cambiar el color de la tarjeta a uno más oscuro que 
 
 [Repositorio.es](https://github.com/jxparra/despliegues-08)
 
+### Cambios del bug:
+
+#### Inicio:
+
+![Web inicial](image.png)
+
+#### Final:
+
+![Web final](image-2.png)
+
+Se muestra el incio de la web, a la izquierda la consola mostrando la linea de código en concreto que estaba erronea. <br>
+
+Al final se ve como hemos cambiado el css, cambiando el color de la clase .card p de <strong>blanco a negro</strong> para que sea visible en la web el parráfo.
