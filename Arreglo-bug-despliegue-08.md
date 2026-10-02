@@ -30,7 +30,7 @@ Otra solución podría ser cambiar el color de la tarjeta a uno más oscuro que 
 
 #### Final:
 
-![Web final](image-1.png)
+![Web final](image-2.png)
 
 Se muestra el incio de la web, a la izquierda la consola mostrando la linea de código en concreto que estaba erronea. <br>
 
